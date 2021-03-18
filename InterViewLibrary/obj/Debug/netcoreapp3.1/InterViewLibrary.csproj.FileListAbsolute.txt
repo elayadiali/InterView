@@ -1,0 +1,8 @@
+C:\Users\moi\source\repos\Interview\InterViewLibrary\bin\Debug\netcoreapp3.1\InterViewLibrary.deps.json
+C:\Users\moi\source\repos\Interview\InterViewLibrary\bin\Debug\netcoreapp3.1\InterViewLibrary.dll
+C:\Users\moi\source\repos\Interview\InterViewLibrary\bin\Debug\netcoreapp3.1\InterViewLibrary.pdb
+C:\Users\moi\source\repos\Interview\InterViewLibrary\obj\Debug\netcoreapp3.1\InterViewLibrary.AssemblyInfoInputs.cache
+C:\Users\moi\source\repos\Interview\InterViewLibrary\obj\Debug\netcoreapp3.1\InterViewLibrary.AssemblyInfo.cs
+C:\Users\moi\source\repos\Interview\InterViewLibrary\obj\Debug\netcoreapp3.1\InterViewLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moi\source\repos\Interview\InterViewLibrary\obj\Debug\netcoreapp3.1\InterViewLibrary.dll
+C:\Users\moi\source\repos\Interview\InterViewLibrary\obj\Debug\netcoreapp3.1\InterViewLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\moi\source\repos\Interview\InterView\bin\Debug\netcoreapp2.1\InterView.deps.json
+C:\Users\moi\source\repos\Interview\InterView\bin\Debug\netcoreapp2.1\InterView.runtimeconfig.json
+C:\Users\moi\source\repos\Interview\InterView\bin\Debug\netcoreapp2.1\InterView.runtimeconfig.dev.json
+C:\Users\moi\source\repos\Interview\InterView\bin\Debug\netcoreapp2.1\InterView.dll
+C:\Users\moi\source\repos\Interview\InterView\bin\Debug\netcoreapp2.1\InterView.pdb
+C:\Users\moi\source\repos\Interview\InterView\obj\Debug\netcoreapp2.1\InterView.AssemblyInfoInputs.cache
+C:\Users\moi\source\repos\Interview\InterView\obj\Debug\netcoreapp2.1\InterView.AssemblyInfo.cs
+C:\Users\moi\source\repos\Interview\InterView\obj\Debug\netcoreapp2.1\InterView.csproj.CoreCompileInputs.cache
+C:\Users\moi\source\repos\Interview\InterView\obj\Debug\netcoreapp2.1\InterView.dll
+C:\Users\moi\source\repos\Interview\InterView\obj\Debug\netcoreapp2.1\InterView.pdb
+C:\Users\moi\source\repos\Interview\InterView\obj\Debug\netcoreapp2.1\InterView.genruntimeconfig.cache

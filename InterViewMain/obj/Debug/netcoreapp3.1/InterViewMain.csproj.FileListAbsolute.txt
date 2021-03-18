@@ -1,0 +1,12 @@
+C:\Users\moi\source\repos\Interview\InterViewMain\bin\Debug\netcoreapp3.1\InterViewMain.exe
+C:\Users\moi\source\repos\Interview\InterViewMain\bin\Debug\netcoreapp3.1\InterViewMain.deps.json
+C:\Users\moi\source\repos\Interview\InterViewMain\bin\Debug\netcoreapp3.1\InterViewMain.runtimeconfig.json
+C:\Users\moi\source\repos\Interview\InterViewMain\bin\Debug\netcoreapp3.1\InterViewMain.runtimeconfig.dev.json
+C:\Users\moi\source\repos\Interview\InterViewMain\bin\Debug\netcoreapp3.1\InterViewMain.dll
+C:\Users\moi\source\repos\Interview\InterViewMain\bin\Debug\netcoreapp3.1\InterViewMain.pdb
+C:\Users\moi\source\repos\Interview\InterViewMain\obj\Debug\netcoreapp3.1\InterViewMain.AssemblyInfoInputs.cache
+C:\Users\moi\source\repos\Interview\InterViewMain\obj\Debug\netcoreapp3.1\InterViewMain.AssemblyInfo.cs
+C:\Users\moi\source\repos\Interview\InterViewMain\obj\Debug\netcoreapp3.1\InterViewMain.csproj.CoreCompileInputs.cache
+C:\Users\moi\source\repos\Interview\InterViewMain\obj\Debug\netcoreapp3.1\InterViewMain.dll
+C:\Users\moi\source\repos\Interview\InterViewMain\obj\Debug\netcoreapp3.1\InterViewMain.pdb
+C:\Users\moi\source\repos\Interview\InterViewMain\obj\Debug\netcoreapp3.1\InterViewMain.genruntimeconfig.cache
